@@ -332,7 +332,7 @@
 330,62315400,surprise,17062144,but the cat is looking this way so the cat sees the mother bear and that cat wants to help mother bear surprise baby bear that's why he says don't eat just yet shut your eyes and say one two three,adj,1,Mother,NOUN,Number=Sing,adj,n,FALSE,intj,,,22
 331,62653167,cheap,17139189,who wants a cheap rhinoceros,adj,1,Mother,ADJ,Degree=Pos,adj,adj,TRUE,adj,,,3
 332,61165268,full,16760246,smell the earth and the trees after warm summer showers breath in the sweet smell from a field full of flowers,adj,3,Mother,ADJ,Degree=Pos,adj,adj,TRUE,adj,,,3
-333,62364615,teeth,17057216,you gonna brush teeth,n,3,Mother,NOUN,Number=Plur,n,n,TRUE,n,,,7
+333,62364615,teeth,17057216,you gonna brush teeth,n,3,Mother,NOUN,Number=Plur,n,n,TRUE,n,,,4
 334,61557518,ought,16870597,he tried to think where his window ought to be,mod,1,Mother,AUX,VerbType=Mod,mod,mod,TRUE,mod,,,7
 335,62564561,did,17114515,oh_my_goodness yes you did have the butter,mod,4,Mother,AUX,Tense=Past|VerbForm=Fin,mod,mod ,FALSE,mod,,,7
 336,62968519,have,17213899,you have lots_of trucks in here,v,4,Mother,VERB,Mood=Ind|Tense=Pres|VerbForm=Fin,v,v,TRUE,v,,,1
