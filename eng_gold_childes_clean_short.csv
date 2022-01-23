@@ -227,7 +227,7 @@
 225,62054611,recorded,16994479,so so I'm being recorded but you are not,part,1,Mother,VERB,Aspect=Perf|Tense=Past|VerbForm=Part,participle,participle,TRUE,participle,,,6
 226,61951806,stickiest,16982812,that's about the stickiest hand I ever saw,adj,0,Mother,ADJ,Degree=Sup,adj,adj,TRUE,adj,,,5
 227,62787778,need,17175585,you need to say excuse me,v,4,Mother,VERB,Tense=Pres|VerbForm=Fin,v,v,TRUE,v,,,1
-228,62545650,anybody,17100292,'cause we're in New England and New Englanders eat the most ice cream of anybody,pro,1,Father,PRON,Number=Sing,pro,pro,TRUE,pro,,,16
+228,62545650,anybody,17100292,'cause we're in New England and New Englanders eat the most ice cream of anybody,pro,1,Father,PRON,Number=Sing,pro,pro,TRUE,pro,,,18
 229,62803925,ham,17163022,ham yes William,n,2,Mother,INTJ,,intj,intj,TRUE,n,,,0
 230,61710048,beautifully,16914861,some time later a beautifully clean Paddington came downstairs,adv,1,Mother,ADV,,adv,adv,TRUE,adv,,,4
 231,62193998,ourselves,17020300,she let Martin and me paint ourselves into this picture,pro,1,Mother,PRON,Case=Acc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes,pro,pro,TRUE,pro,,,6
@@ -251,7 +251,7 @@
 249,61521846,shooting,16868208,there we go two stars and one shooting star,part,0,Mother,VERB,Aspect=Prog|Tense=Pres|VerbForm=Part,participle,participle,TRUE,participle,,,7
 250,61830440,semicircle,16947033,do you rodents think you can handle a semicircle,n,0,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,8
 251,62402824,all,17086693,I think that's probably all of the tape,pro,2,Mother,DET,,pro,pro,TRUE,pro,,,6
-252,61931898,beeping,16971046,well someone didn't leave a message and then it just keeps beeping and beeping,part,1,Mother,VERB,Aspect=Prog|Tense=Pres|VerbForm=Part,participle,participle,TRUE,participle,,,14
+252,61931898,beeping,16971046,well someone didn't leave a message and then it just keeps beeping and beeping,part,1,Mother,VERB,Aspect=Prog|Tense=Pres|VerbForm=Part,participle,participle,TRUE,participle,,,13
 253,62573090,might,17118809,it might be also that she's still hungry enough that she can't,mod,3,Mother,AUX,VerbForm=Fin,mod,mod,TRUE,mod,,,1
 254,61624039,everything,16894864,everything is the same thing we just don't know what it is,pro,2,Mother,PRON,Number=Sing,pro,pro,TRUE,pro,,,0
 255,61520108,below,16865616,right below your other one,prep,1,Mother,ADP,,prep,prep,TRUE,prep,,,1
@@ -265,7 +265,7 @@
 263,62655038,past,17126483,after all danger of frosts has past,adj,2,Mother,ADJ,Degree=Pos,adj,adj,TRUE,adj,,,7
 264,61778524,of,16939935,so that's the sort of thing that she does all the time,prep,4,Mother,ADP,,prep,prep,TRUE,prep,,,6
 265,61830937,I,16948155,oh I don't know you could be,pro,4,Mother,PRON,Case=Nom|Number=Sing|Person=1|PronType=Prs,pro,pro,TRUE,pro,,,1
-266,61463889,did,16852885,and what did he find on the mattress,mod,4,Mother,AUX,Tense=Past|VerbForm=Fin,mod,mod ,FALSE,mod ,,,1
+266,61463889,did,16852885,and what did he find on the mattress,mod,4,Mother,AUX,Tense=Past|VerbForm=Fin,mod,mod ,FALSE,mod ,,,2
 267,61183198,test,16761361,test it,v,1,Mother,VERB,VerbForm=Inf,v,v,TRUE,v,,,0
 268,61456161,must,16847597,the sky is falling cheeped Chicken Little and we must tell the king,mod,3,Mother,AUX,VerbForm=Fin,mod,mod,TRUE,mod,,,11
 269,61465669,ball,16858339,a ball,n,4,Target_Child,NOUN,Number=Sing,n,n,TRUE,n,,,1
@@ -382,7 +382,7 @@
 380,61875127,big,16949688,yeah oh big time,adj,4,Mother,ADJ,Degree=Pos,adj,adj,TRUE,adj,,,2
 381,62942900,about,17201378,ow what about Daddy,prep,4,Target_Child,ADP,,prep,prep,TRUE,prep,,,2
 382,62083434,sent,17007996,they had sent me a confirmation right away,part,1,Investigator,VERB,Aspect=Perf|Tense=Past|VerbForm=Part,participle,participle,TRUE,participle,,,2
-383,62396108,picture,17074133,yeap and there's a picture of an ambulance there too I'm just gonna go do some laundry I'll be right back in a minute,n,4,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,2
+383,62396108,picture,17074133,yeap and there's a picture of an ambulance there too I'm just gonna go do some laundry I'll be right back in a minute,n,4,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,7
 384,61847471,across,16948025,Jack and Perla spun round and around gliding across the floor,prep,2,Mother,ADP,,prep,prep,TRUE,prep,,,9
 385,61691157,jaunty,16919112,she had three shiny quarters and best of all she had a brand new purple plastic purse that played a jaunty tune when it was opened,adj,0,Mother,NOUN,Number=Sing,adj,n,FALSE,adj,,,20
 386,61651613,picture,16906084,there's a doggie on that picture,n,4,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,8
@@ -627,7 +627,7 @@
 625,62394871,I,17075250,no I don't want to,pro,4,Target_Child,PRON,Case=Nom|Number=Sing|Person=1|PronType=Prs,pro,pro,TRUE,pro,,,1
 626,62925056,come,17202053,come on going be e i e i o,v,4,Target_Child,VERB,VerbForm=Inf,v,v,TRUE,v,,,0
 627,62153759,actually,17024099,actually there's some tomatoes there too,adv,3,Father,ADV,,adv,adv,TRUE,adv,,,0
-628,62267458,doing,17048547,they're all finished with what they were doing,part,4,Mother,VERB,Aspect=Prog|Tense=Pres|VerbForm=Part,participle,participle,TRUE,participle,,,4
+628,62267458,doing,17048547,they're all finished with what they were doing,part,4,Mother,VERB,Aspect=Prog|Tense=Pres|VerbForm=Part,participle,participle,TRUE,participle,,,9
 629,62250939,there,17040997,there okay do you want to put the dress on,adv,4,Father,ADV,PronType=Dem,adv,adv,TRUE,,TRUE,,0
 630,62302181,changed,17052312,xxx changed says motorcycle chicken,part,2,Target_Child,VERB,Tense=Past|VerbForm=Fin,participle,v,FALSE,,TRUE,,2
 631,62452996,try,17090933,I can try to help you put it back together,v,3,Mother,VERB,VerbForm=Inf,v,v,TRUE,v,,,2
@@ -878,7 +878,7 @@
 877,61714807,in,16925924,ooh look at this book we haven't read this in a long time,prep,4,Mother,ADP,,prep,prep,TRUE,prep,,,12
 878,62800270,through,17169088,all through the town,prep,3,Mother,ADP,,prep,prep,TRUE,prep,,,1
 879,62506263,picture,17083597,you gonna hold the handle of the stroller to show that you're strolling him in the picture,n,4,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,20
-880,61230304,cinnamon,16784274,cloves cinnamon ginger baking soda,n,1,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,2
+880,61230304,cinnamon,16784274,cloves cinnamon ginger baking soda,n,1,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,3
 881,61291067,today,16794465,no squirrels today,adv,3,Mother,NOUN,Number=Sing,adv,n,FALSE,adv,,,2
 882,62776790,airborne,17168811,yyy snakes are fun xxx airborne snakes yyy yyy,adj,0,Target_Child,ADJ,Degree=Pos,adj,adj,TRUE,adj,,,8
 883,61804503,Dragon,16935567,Dragon_Tales has Cassie,n,0,Target_Child,PROPN,NounType=Prop|Number=Sing,n,n,TRUE,n,,,0
