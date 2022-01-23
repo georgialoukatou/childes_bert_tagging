@@ -331,7 +331,7 @@
 329,62849685,dare,17185942,back to my home where I dare not go,mod,1,Mother,AUX,Tense=Pres|VerbForm=Fin,mod,mod,TRUE,mod,,,6
 330,62315400,surprise,17062144,but the cat is looking this way so the cat sees the mother bear and that cat wants to help mother bear surprise baby bear that's why he says don't eat just yet shut your eyes and say one two three,adj,1,Mother,NOUN,Number=Sing,adj,n,FALSE,intj,,,22
 331,62653167,cheap,17139189,who wants a cheap rhinoceros,adj,1,Mother,ADJ,Degree=Pos,adj,adj,TRUE,adj,,,3
-332,61165268,full,16760246,smell the earth and the trees after warm summer showers breath in the sweet smell from a field full of flowers,adj,3,Mother,ADJ,Degree=Pos,adj,adj,TRUE,adj,,,20
+332,61165268,full,16760246,smell the earth and the trees after warm summer showers breath in the sweet smell from a field full of flowers,adj,3,Mother,ADJ,Degree=Pos,adj,adj,TRUE,adj,,,18
 333,62364615,teeth,17057216,you gonna brush teeth,n,3,Mother,NOUN,Number=Plur,n,n,TRUE,n,,,3
 334,61557518,ought,16870597,he tried to think where his window ought to be,mod,1,Mother,AUX,VerbType=Mod,mod,mod,TRUE,mod,,,7
 335,62564561,did,17114515,oh_my_goodness yes you did have the butter,mod,4,Mother,AUX,Tense=Past|VerbForm=Fin,mod,mod ,FALSE,mod,,,7
@@ -339,7 +339,7 @@
 337,62461148,stethoscope,17086009,after Huckle takes off his clothes Doctor Bones listens to Huckle's heart through his stethoscope,n,1,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,19
 338,61560922,nose,16883852,on their cheeks on their ears on their fingers and nose the tops of their heads their tummies and toes,v,1,Mother,NOUN,Number=Sing,v,n,FALSE,n,,,10
 339,62606507,little,17119284,you'll find yyy yyy yyy little thing yyy xxx xxx yyy yyy yyy that you think yyy that's a faucet,adj,4,Target_Child,ADJ,Degree=Pos,adj,adj,TRUE,adj,,,13
-340,61969573,within,16982822,yeah Ariel gives up her beautiful voice to stay human Ariel must make Eric give her a kiss of true love within three days,prep,1,Mother,ADP,,prep,prep,TRUE,prep,,,19
+340,61969573,within,16982822,yeah Ariel gives up her beautiful voice to stay human Ariel must make Eric give her a kiss of true love within three days,prep,1,Mother,ADP,,prep,prep,TRUE,prep,,,21
 341,62314104,there,17047898,is there tofu also,adv,4,Mother,PRON,AdvType=Ex,adv,pro,FALSE,pro,,,1
 342,61275063,bless,16791720,xxx God bless you,v,2,Target_Child,VERB,Tense=Pres|VerbForm=Fin,v,v,TRUE,v,,,3
 343,62267801,wiggily,17049641,xxx Sally's wiggily wiggily wiggily wiggily wiggily there,adv,2,Mother,ADV,,adv,adv,TRUE,adv,,,5
@@ -433,13 +433,13 @@
 431,62029414,from,16993021,xxx this Easter egg is from last year Max said Ruby into the trash bucket,prep,3,Mother,ADP,,prep,prep,TRUE,prep,,,6
 432,61851179,squares,16958022,there's some um squares too,v,0,Target_Child,NOUN,Number=Plur,v,n,FALSE,n,,,5
 433,62789525,moving,17176748,we're just moving into an apartment for now,part,3,Mother,VERB,Aspect=Prog|Tense=Pres|VerbForm=Part,participle,participle,TRUE,participle,,,4
-434,87687,Naima,17057816,yyy Naima,n,4,Target_Child,PROPN,NounType=Prop|Number=Sing,n,n,TRUE,n,,,3
+434,87687,Naima,17057816,yyy Naima,n,4,Target_Child,PROPN,NounType=Prop|Number=Sing,n,n,TRUE,PROPN,,,3
 435,62142285,helping,17017723,you were helping me tape the boxes weren't you,part,2,Mother,VERB,Aspect=Prog|Tense=Pres|VerbForm=Part,participle,participle,TRUE,participle,,,2
 436,61992394,toward,16973344,his paws were soon full and he was just beginning to wish he had left his suitcase at home when he saw the manager coming toward him pushing a large basket on wheels,prep,1,Mother,ADP,,prep,prep,TRUE,prep,,,25
 437,62896242,putting,17194060,what're you putting in there,part,3,Father,VERB,Aspect=Prog|Tense=Pres|VerbForm=Part,participle,participle,TRUE,participle,,,4
 438,62255572,doing,17048568,what are they doing,part,4,Target_Child,VERB,Aspect=Prog|Tense=Pres|VerbForm=Part,participle,participle,TRUE,participle,,,3
 439,61679542,orange,16910080,orange,adj,3,Target_Child,NOUN,Number=Sing,adj,n,FALSE,n,TRUE,,0
-440,62757533,Guatemala,17161544,um let's see Guatemala,n,0,Mother,PROPN,NounType=Prop|Number=Sing,n,n,TRUE,n,,,5
+440,62757533,Guatemala,17161544,um let's see Guatemala,n,0,Mother,PROPN,NounType=Prop|Number=Sing,n,n,TRUE,PROPN,,,5
 441,63100174,buddy,17273872,hey buddy,n,2,Father,NOUN,Number=Sing,n,n,TRUE,n,,,1
 442,61953568,at,16971059,I can look at all the pages,prep,4,Target_Child,ADP,,prep,prep,TRUE,prep,,,3
 443,61744753,squeal,16917694,they cry and they squeal they giggle and coo they bang and they splash and they clap their hands too,v,0,Mother,VERB,Tense=Pres|VerbForm=Fin,v,v,TRUE,v,,,4
@@ -475,7 +475,7 @@
 473,62683801,they,17146245,this little chick from over the way went to skip with the lambs one day and what do you think they heard him say,pro,3,Mother,PRON,Case=Nom|Number=Plur|Person=3|PronType=Prs,pro,pro,TRUE,pro,,,21
 474,62414124,roar,17087718,bears roar,n,2,Father,NOUN,Number=Sing,n,n,TRUE,v,,,1
 475,62919038,sweeping,17201881,where are you sweeping,part,2,Mother,VERB,Aspect=Prog|Tense=Pres|VerbForm=Part,participle,participle,TRUE,participle,,,3
-476,62136725,later,17015280,Sweetie why don't we color some of your princess papers that we can show Daddy later let's bring this over so we can lean on this you carry your box,adv,3,Mother,ADV,,adv,adv,TRUE,adv,,,3
+476,62136725,later,17015280,Sweetie why don't we color some of your princess papers that we can show Daddy later let's bring this over so we can lean on this you carry your box,adv,3,Mother,ADV,,adv,adv,TRUE,adv,,,17
 477,62585710,doing,17115509,I will put your slide away and you won't be able to use it any more if I ever see you doing that again,part,4,Mother,VERB,Aspect=Prog|Tense=Pres|VerbForm=Part,participle,participle,TRUE,participle,,,17
 478,62937349,hers,17209221,looking for hers,pro,1,Target_Child,PRON,Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes,pro,pro,TRUE,pro,,,2
 479,61555855,from,16876557,the noise boom from inside the door,prep,3,Target_Child,ADP,,prep,prep,TRUE,prep,,,3
@@ -556,7 +556,7 @@
 554,62441605,gas,17085246,Griz do you have enough gas in your box to take you to all the way to Maine,n,2,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,6
 555,61552762,inside,16881320,inside was a race+car so big I'd never be able to swallow it,prep,2,Mother,ADV,,prep,adv,FALSE,prep,,,0
 556,61640556,time,16897400,and then one time my dad took me sailing,n,4,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,3
-557,62839319,occurred,17173727,you know what it just occurred to me that we probably need batteries for this I'm not certain that I have batteries but,part,0,Mother,VERB,Tense=Past|VerbForm=Fin,participle,v,FALSE,v,,,6
+557,62839319,occurred,17173727,you know what it just occurred to me that we probably need batteries for this I'm not certain that I have batteries but,part,0,Mother,VERB,Tense=Past|VerbForm=Fin,participle,v,FALSE,v,,,5
 558,62456504,near,17080310,in a corner near the fireplace where there was a hole under the skirting board,adj,1,Mother,SCONJ,,adj,prep,FALSE,prep,,,3
 559,62466625,back,17094001,here I'll put it back on here,adv,4,Mother,ADV,,adv,adv,TRUE,adv,,,6
 560,62395085,spices,17075790,what xxx what kinds of spices are you putting in it,n,1,Mother,NOUN,Number=Plur,n,n,TRUE,n,,,6
@@ -637,7 +637,7 @@
 635,62340591,em,17063089,those are clean I kinda want em to stay clean okay,pro,1,Mother,PRON,PronType=Prs,pro,pro,TRUE,pro,,,6
 636,62157129,then,17019382,and then,adv,4,Mother,ADV,PronType=Dem,adv,adv,TRUE,adv,,,1
 637,61930955,where,16968364,where is it,pro,3,Target_Child,ADV,,pro,adv,FALSE,adv,,,0
-638,61283117,hearties,16807960,ahoy there me hearties,n,0,Mother,NOUN,Number=Plur,n,n,TRUE,n,,,5
+638,61283117,hearties,16807960,ahoy there me hearties,n,0,Mother,NOUN,Number=Plur,n,n,TRUE,n,,,4
 639,62920774,doing,17199633,I was doing it in here,part,4,Mother,VERB,Aspect=Prog|Tense=Pres|VerbForm=Part,participle,participle,TRUE,participle,,,2
 640,62356110,amongst,17070753,amongst the toys,prep,0,Mother,ADP,,prep,prep,TRUE,prep,,,0
 641,62269222,poopy,17053643,it's a dry one well you're the one who told me it's actually poopy,adj,1,Mother,NOUN,Number=Sing,adj,n,FALSE,adj,,,19
@@ -665,7 +665,7 @@
 663,61372440,ice,16826897,yeah a cupcake yyy cupcake and cake and ice cream that's everything,n,3,Target_Child,NOUN,Number=Sing,n,n,TRUE,n,,,12
 664,62687318,shall,17139089,what shall I name him,mod,2,Mother,AUX,VerbType=Mod,mod,mod,TRUE,mod,,,1
 665,61838730,wishing,16952001,and he walked along with the moon wishing he was in his room and in his bed,part,1,Mother,VERB,Aspect=Prog|Tense=Pres|VerbForm=Part,participle,participle,TRUE,participle,,,7
-666,61835143,might,16947208,because possums might wear it upside down by mistake,mod,3,Mother,AUX,VerbForm=Fin,mod,mod,TRUE,mod,,,2
+666,61835143,might,16947208,because possums might wear it upside down by mistake,mod,3,Mother,AUX,VerbForm=Fin,mod,mod,TRUE,mod,,,4
 667,62314756,where,17049693,where were we today where there were three oh Dolce had three clocks,pro,3,Mother,ADV,,pro,adv,FALSE,adv,,,0
 668,62457820,down,17082045,put down here,prep,3,Target_Child,ADP,,prep,prep,TRUE,prep,,,1
 669,62990754,broken,17224493,why's it broken,part,3,Father,ADJ,Degree=Pos,participle,adj,FALSE,participle,,,4
@@ -764,7 +764,7 @@
 762,62680667,whichever,17143008,uh whichever one I don't care,pro,0,Mother,DET,,pro,pro,TRUE,pro,,,1
 763,62840679,costume,17174662,she's in a costume isn't she for Halloween,n,2,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,5
 764,62676409,immediately,17140754,but they can swim and dive almost immediately after birth,adv,1,Mother,ADV,,adv,adv,TRUE,adv,,,7
-765,63035820,little,17230619,yeah this is our small little pink ball,adj,4,Sister,ADJ,Degree=Pos,adj,adj,TRUE,adj,,,6
+765,63035820,little,17230619,yeah this is our small little pink ball,adj,4,Sister,ADJ,Degree=Pos,adj,adj,TRUE,adj,,,5
 766,62120476,whiny,17023728,what's the matter whiny girl,adj,0,Father,ADJ,Degree=Pos,adj,adj,TRUE,adj,,,5
 767,62531778,wakie,17107669,are they wakie wakie,v,0,Mother,NOUN,Number=Sing,v,n,FALSE,,TRUE,,2
 768,61788200,swim,16946282,I can swim,v,2,Target_Child,VERB,VerbForm=Inf,v,v,TRUE,v,,,2
@@ -820,7 +820,6 @@
 818,61183259,want,16761495,I want this,v,4,Target_Child,VERB,Tense=Pres|VerbForm=Fin,v,v,TRUE,v,,,1
 819,62203133,pole,17032112,and I'm putting the holes on the pole,n,2,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,9
 820,62766174,pipe,17156682,pipe fish,n,1,Mother,NOUN,Number=Sing,n,n,TRUE,,TRUE,,0
-821,,fire will,17184228,how about the fire+engine the red fire+engine'll come too,mod,0,Mother,NOUN,Number=Sing,mod,n,FALSE,,TRUE,,
 822,62612001,coming,17118811,how's the pizza coming,part,4,Mother,VERB,Aspect=Prog|Tense=Pres|VerbForm=Part,participle,participle,TRUE,participle,,,5
 823,62081111,can,17000395,well we can't see it now but we can see it another day or we could look at some old ones later,mod,4,Mother,AUX,VerbForm=Fin,mod,mod,TRUE,mod,,,10
 824,62736131,his,17150315,yyy and he's sliding on his,pro,1,Target_Child,PRON,Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs,pro,pro,TRUE,pro,,,9
@@ -861,7 +860,7 @@
 859,62715536,here,17150397,this page over here,n,4,Mother,ADV,PronType=Dem,n,adv,FALSE,adv,,,3
 860,62367248,why,17071630,you just don't want Mommy using the computer is that why you're upset,pro,3,Mother,ADV,,pro,adv,FALSE,adv,,,12
 861,61819017,near,16945149,after tea that sat in the big purple chair near the window and waited for snow,prep,2,Mother,SCONJ,,prep,prep,TRUE,prep,,,9
-862,61660584,does,16903009,xxx what does he have,v,3,Mother,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,v,v,TRUE,v,,,3
+862,61660584,does,16903009,xxx what does he have,v,3,Mother,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,v,v,TRUE,AUX,,,3
 863,62199227,safely,17038095,safely to abide,adv,1,Mother,ADV,,adv,adv,TRUE,adv,,,0
 864,61947304,Hilda,16972471,oh boy Hilda Hippo,n,2,Mother,PROPN,NounType=Prop|Number=Sing,n,n,TRUE,n,,,2
 865,61820555,beneath,16948359,and the bough of the ship pierced her cold heart slowly the horrible sea witch sank beneath the waves forever,prep,1,Mother,ADP,,prep,prep,TRUE,prep,,,17
@@ -873,13 +872,13 @@
 871,62543760,nutty,17098240,xxx why is that no this is not pretty nutty,adj,1,Target_Child,ADJ,Degree=Pos,adj,adj,TRUE,adj,,,10
 872,62090099,well,17008712,well now,adv,3,Mother,INTJ,,intj,intj,TRUE,intj,,,0
 873,62863881,inside,17186869,yes I think you're I think you're a good soccer player I just don't think it's an appropriate game for inside the house,prep,2,Mother,ADP,,prep,prep,TRUE,prep,,,28
-874,62555085,November,17101457,today is November,n,1,Mother,PROPN,NounType=Prop|Number=Sing,n,n,TRUE,n,,,2
+874,62555085,November,17101457,today is November,n,1,Mother,PROPN,NounType=Prop|Number=Sing,n,n,TRUE,PROPN,,,2
 875,61212264,almost,16782671,almost looks like a moon,adv,3,Mother,ADV,,adv,adv,TRUE,adv,,,0
 876,61582676,down,16873092,your pants are falling down huh,prep,3,Mother,ADP,,prep,prep,TRUE,prep,,,4
 877,61714807,in,16925924,ooh look at this book we haven't read this in a long time,prep,4,Mother,ADP,,prep,prep,TRUE,prep,,,12
 878,62800270,through,17169088,all through the town,prep,3,Mother,ADP,,prep,prep,TRUE,prep,,,1
 879,62506263,picture,17083597,you gonna hold the handle of the stroller to show that you're strolling him in the picture,n,4,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,20
-880,61230304,cinnamon,16784274,cloves cinnamon ginger baking soda,n,1,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,1
+880,61230304,cinnamon,16784274,cloves cinnamon ginger baking soda,n,1,Mother,NOUN,Number=Sing,n,n,TRUE,n,,,2
 881,61291067,today,16794465,no squirrels today,adv,3,Mother,NOUN,Number=Sing,adv,n,FALSE,adv,,,2
 882,62776790,airborne,17168811,yyy snakes are fun xxx airborne snakes yyy yyy,adj,0,Target_Child,ADJ,Degree=Pos,adj,adj,TRUE,adj,,,8
 883,61804503,Dragon,16935567,Dragon_Tales has Cassie,n,0,Target_Child,PROPN,NounType=Prop|Number=Sing,n,n,TRUE,n,,,0
