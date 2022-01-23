@@ -897,13 +897,11 @@
 896,61826888,'ll,16954080,we'll hafta think of a name,mod,3,Mother,AUX,VerbType=Mod,mod,mod,TRUE,mod,,,2
 897,62057520,I,16997361,I've got an Oatio here,pro,3,Mother,PRON,Case=Nom|Number=Sing|Person=1|PronType=Prs,pro,pro,TRUE,pro,,,0
 898,62057520,'ve,16997361,I've got an Oatio here,aux,3,Mother,AUX,Mood=Ind|Tense=Pres|VerbForm=Fin,aux,aux,TRUE,mod,,,2
-899,62650617,got,17131136,mama we gotta go out the farm,mod,3,Target_Child,VERB,Tense=Past|VerbForm=Fin,mod,v,FALSE,mod,,,2
-900,62650617,ta,17131136,mama we gotta go out the farm,inf,3,Target_Child,PART,,inf,particle,FALSE,particle,,,3
 901,61708423,they,16916665,I think they've had a long morning,pro,1,Investigator,PRON,Case=Nom|Number=Plur|Person=3|PronType=Prs,pro,pro,TRUE,pro,,,2
-902,61708423,'ve,16916665,I think they've had a long morning,aux,1,Investigator,AUX,Mood=Ind|Tense=Pres|VerbForm=Fin,aux,aux,TRUE,aux,,,3
-903,61244233,Dorothy,16778666,I want another cup of Dorothy's,adj,1,Mother,PROPN,NounType=Prop|Number=Sing,adj,n,FALSE,n,,,5
-904,61244233,'s,16778666,I want another cup of Dorothy's,poss,1,Mother,PART,,particle,particle,TRUE,particle,,,6
-905,61910812,Horton,16959582,but poor Horton's troubles were far far from ended,adj,0,Mother,PROPN,NounType=Prop|Number=Sing,adj,n,FALSE,n,,,2
-906,61910812,'s,16959582,but poor Horton's troubles were far far from ended,poss,0,Mother,PART,,particle,particle,TRUE,particle,TRUE,,3
+902,61708423,'ve,16916665,I think they've had a long morning,aux,1,Investigator,AUX,Mood=Ind|Tense=Pres|VerbForm=Fin,aux,aux,TRUE,aux,,,4
+903,61244233,Dorothy,16778666,I want another cup of Dorothy's,adj,1,Mother,PROPN,NounType=Prop|Number=Sing,adj,n,FALSE,PROPN,,,5
+904,61244233,'s,16778666,I want another cup of Dorothy's,poss,1,Mother,PART,,particle,particle,TRUE,particle,,,7
+905,61910812,Horton,16959582,but poor Horton's troubles were far far from ended,adj,0,Mother,PROPN,NounType=Prop|Number=Sing,adj,n,FALSE,PROPN,,,2
+906,61910812,'s,16959582,but poor Horton's troubles were far far from ended,poss,0,Mother,PART,,particle,particle,TRUE,particle,TRUE,,4
 907,61797011,one,16948039,that one's pooping,pro,2,Target_Child,NOUN,Number=Sing,pro,n,FALSE,pro,,,1
-908,61797011,'s,16948039,that one's pooping,aux,2,Target_Child,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,aux,v,FALSE,mod,,,2
+908,61797011,'s,16948039,that one's pooping,aux,2,Target_Child,AUX,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,aux,v,FALSE,mod,,,3
